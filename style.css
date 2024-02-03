@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(56, 56, 58);
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+
+}
+#conteudo{
+    background-color: rgb(42, 44, 46);
+}
+h1{
+    text-align: center;
+    color: azure;
+}
+.brasao{
+    border-bottom: 3px solid black;
+    border-radius: 15px;
+}
+img{
+    width: 90px;
+    float: left;/*
+    margin-left: 80px;*/
+    display: flex;
+    margin-left: 50px;
+    margin-right: 60px;
+    border-radius: 100px;
+}
+i{
+    color: azure;
+    font-size: 35px;
+}
+.parte_1{
+    display: flex;
+    justify-content: center;
+}
+.parte_2{
+    display: flex;
+}
+h2{
+    color: azure;
+}
+.col-md-4{
+    display: inline-block;
+}
+.brasao{
+
+}
+.card-title{
+    font-size: 18px;
+    background-color: black;
+    border-radius: 10px;
+}
+.card-text{
+    text-align: center;
+    color: azure;
+
+}
+h5{
+    text-align: center;
+    color: azure;
+}
